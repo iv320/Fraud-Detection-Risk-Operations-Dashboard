@@ -3,7 +3,7 @@
 A business-first analytics project designed for Fraud Ops teams to monitor, detect, and mitigate financial risk through data-driven insights.
 
 ## 📈 Dashboard Preview
-![Fraud Dashboard](docs/dashboard.png)
+![Fraud Dashboard](docs/dashboard.png
 
 
 
@@ -52,5 +52,6 @@ The dashboard tracks 4 critical metrics for fraud operations:
 ---
 **End-to-end fraud analytics project designed and built for operational decision-making.*
 *
+
 
 
